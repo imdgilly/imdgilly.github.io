@@ -1,0 +1,6 @@
+Package: com.imdgilly.tweak
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dgilly<iamdgilly@gmail.com>
+Author: Dgilly<iamdgilly@gmail.com>
+Name: RandomTweak
